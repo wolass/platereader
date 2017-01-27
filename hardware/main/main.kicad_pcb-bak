@@ -3,7 +3,7 @@
   (general
     (links 112)
     (no_connects 0)
-    (area 35.433 50.248999 112.057001 121.584027)
+    (area 31.928999 48.438999 115.391001 123.519001)
     (thickness 1.6)
     (drawings 18)
     (tracks 270)
@@ -83,11 +83,11 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory plots))
   )
 
   (net 0 "")
